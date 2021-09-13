@@ -1,0 +1,33 @@
+#a {
+    background-color: cornflowerblue;
+    font-family: 'Satisfy', cursive;
+}
+
+#b {
+    background-color: rgb(185, 240, 104);
+    font-family: 'Satisfy', cursive;
+}
+
+#result_object_name, #result_object_accuracy {
+    color: indianred;
+    font-family: 'Satisfy', cursive;
+}
+b {
+    font-family: 'Satisfy', cursive;
+    color: indianred;
+}
+p {
+    font-family: 'Satisfy', cursive;
+    color: indianred;
+}
+h3 {
+    font-family: 'Satisfy', cursive;
+    color: indianred;
+}
+label {
+    font-family: 'Satisfy', cursive;
+    color: indianred;
+}
+body {
+    background-color: yellowgreen;
+}
